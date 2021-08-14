@@ -1,6 +1,5 @@
-# Hi there! I'm Vaishnavi 
+# Hi there! I'm Vaishnavi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 <!-- 👋 -->
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 ## Full Stack Developer 
 
 - 🔭 I recently worked on a project [Social-Hunt](https://github.com/VaishnaviMehrotra/Social-Hunt) which is a social media app to share post with other users  
