@@ -1,12 +1,14 @@
-# Hi there! I'm Vaishnavi 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+# Hi there! I'm Vaishnavi 
+<!-- 👋 -->
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 ## Full Stack Developer 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 - 🔭 I recently worked on a project [Social-Hunt](https://github.com/VaishnaviMehrotra/Social-Hunt) which is a social media app to share post with other users  
 - 🌱 I'm currently learning python 
 - 👯 I'm currently looking for a job 
 - 💬 Ask me about Web Development
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/vaishnavi-mehrotra-8a2421187/)
-
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
