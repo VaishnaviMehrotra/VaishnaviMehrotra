@@ -1,4 +1,4 @@
-# Hi there! I'm Vaishnavi 👋
+# Hi there! I'm Vaishnavi 👋<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
 ## Full Stack Developer 
 
 - 🔭 I recently worked on a project [Social-Hunt](https://github.com/VaishnaviMehrotra/Social-Hunt) which is a social media app to share post with other users  
@@ -39,4 +39,4 @@
 
 
 <h3> ⚙️  GitHub Analytics </h3>
-<img src="https://activity-graph.herokuapp.com/graph?username=VaishnaviMehrotra&show_icons=true&count_private=true&area=true&&color=black&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
+<img src="https://activity-graph.herokuapp.com/graph?username=VaishnaviMehrotra&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
