@@ -42,8 +42,8 @@
 <br/>
 
 <details>
-<div>
-<h3> ⚙️  GitHub Analytics </h3>
+<summary>:zap: <h3> ⚙️  GitHub Analytics </h3> </summary>
+
 <img src="https://activity-graph.herokuapp.com/graph?username=VaishnaviMehrotra&show_icons=true&count_private=true&area=true&&color=333333&line=ABD6DFFF&point=89ABE3FF&hide_border=true" />
-  </div>
+
   </details>
