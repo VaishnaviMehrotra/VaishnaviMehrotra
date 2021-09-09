@@ -11,7 +11,7 @@ Checkout my portfolio website [vaishnavimehrotra](http://vaishnavimehrotra.in/)
 <br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-vaishnavimehrotra260-%23bc2a8d%09)](https://www.instagram.com/vaishnavimehrotra260/)
-[![Linkedin](https://img.shields.io/badge/Linked%20in-vaishnavi-mehrotra-blue)](https://www.linkedin.com/in/vaishnavi-mehrotra-8a2421187/)
+[![Linkedin](https://img.shields.io/badge/Linked%20in-vaishnavimehrotra-blue)](https://www.linkedin.com/in/vaishnavi-mehrotra-8a2421187/)
 [![Instagram](https://img.shields.io/badge/Instagram-vaishnavimehrotra260-%23bc2a8d%09)](https://www.instagram.com/vaishnavimehrotra260/)
 [![Linkedin](https://img.shields.io/badge/Linked%20in-vaishnavi mehrotra-blue)](https://www.linkedin.com/in/vaishnavi-mehrotra-8a2421187/)
 
