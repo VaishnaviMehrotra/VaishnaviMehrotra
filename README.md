@@ -3,7 +3,7 @@
 A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
 
 
-Checkout my portfolio website [iaagam](http://vaishnavimehrotra.in/)
+
 Checkout my portfolio website [vaishnavimehrotra](http://vaishnavimehrotra.in/)
 
 ### 💼 My Major Projects : 
