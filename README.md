@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vaishnavi</h1><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+<h1 align="center">Hi, I'm Vaishnavi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> </h1>
 <h2 align="center">Full Stack Developer  </h2>
 Checkout my portfolio website [vaishnavimehrotra](http://vaishnavimehrotra.in/)
 
