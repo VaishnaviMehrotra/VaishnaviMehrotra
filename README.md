@@ -2,7 +2,6 @@
 <h2 align="center">Full Stack Developer  </h2>
 A passionate Coder 🚀 having an experience of building Web applications with JavaScript / ReactJS / NodeJS / ExpressJS / MongoDB some other cool libraries and frameworks.
 
-<br />
 Checkout my portfolio website [vaishnavimehrotra](http://vaishnavimehrotra.in/)
 
 ### 💼 My Major Projects : 
